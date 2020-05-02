@@ -1,0 +1,1 @@
+Game_Name = "Mystery"
